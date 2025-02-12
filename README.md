@@ -1,4 +1,11 @@
-# UniTO Thesis Typst Template
+# typst-unito-ths-template-italian
+Il template Typst di Eduard Occhipinti per le tesi Unito, tradotto in italiano e leggermente modificato
+
+
+
+
+_________________________________
+# UniTO Thesis Typst Template (readme originale dalla repo del fork)
 
 This is a thesis template for the University of Turin (UniTO) based on [my thesis](https://github.com/eduardz1/Bachelor-Thesis), since there are no strict templates (notable mention to [Eugenio's LaTeX template though](https://github.com/esenes/Unito-thesis-template)) take my choices with a grain of salt, different supervisors may ask you to customize the template differently. My choices are loosely based on this document: [Indicazioni per il Format della Tesi](https://elearning.unito.it/sme/pluginfile.php/29485/mod_folder/content/0/format_TESI_2011-2012.pdf).
 
