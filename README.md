@@ -1,5 +1,5 @@
 # typst-unito-ths-template-italian
-Il template Typst di Eduard Occhipinti per le tesi Unito~~, tradotto in italiano e leggermente modificato~~
+Il template Typst di Eduard Occhipinti per le tesi Unito ~~tradotto in italiano e leggermente modificato~~
 
 
 
